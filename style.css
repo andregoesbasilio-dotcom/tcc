@@ -157,6 +157,10 @@ footer {
         gap: 15px;
     }
 
+    .banner img {
+        height: 200px;
+    }
+
     .contato {
         margin: 25px 15px;
         padding: 22px;
@@ -166,7 +170,6 @@ footer {
         grid-template-columns: 1fr;
     }
 }
-
 
 
 
